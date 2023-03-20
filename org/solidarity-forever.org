@@ -1,7 +1,6 @@
 #+TITLE: Solidarity Forever
 #+AUTHOR: Ralph Chaplin
 #+CREATOR: CToID
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../web/content-page.css">
 
 #+begin_verse
 When the Union's inspiration through the workers' blood shall run

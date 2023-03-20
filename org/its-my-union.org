@@ -1,7 +1,6 @@
 #+TITLE: It's My Union
 #+AUTHOR: Arthur Johnstone
 #+CREATOR: CToID
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../web/content-page.css">
 
 #+begin_verse
 When the papers run by Tories carry terrifying stories
