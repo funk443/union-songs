@@ -1,8 +1,9 @@
 #+TITLE: It's My Union
 #+AUTHOR: Arthur Johnstone
 #+CREATOR: CToID
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="content-page.css">
 
-#+begin_example
+#+begin_verse
 When the papers run by Tories carry terrifying stories
 Of the horrid Union bosses who oppress me
 They can rant and scream and rage, I just turn the other page
@@ -45,4 +46,4 @@ I'll fight in the Union till I die
 
 'Cause it's my Union, I built a Union
 I'll fight in the Union till I die
-#+end_example
+#+end_verse
