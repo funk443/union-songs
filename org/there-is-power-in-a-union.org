@@ -1,7 +1,7 @@
 #+TITLE: There is Power in a Union
 #+AUTHOR: Billy Bragg
 #+CREATOR: CToID
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="content-page.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../web/content-page.css">
 
 #+begin_verse
 There is power in a factory, power in the land
