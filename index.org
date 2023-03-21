@@ -1,4 +1,11 @@
 #+TITLE: ID's Union Song Collection
 #+AUTHOR: CToID
 
-[[./web/its-my-union.html][It's My Union]]
+- [[./web/its-my-union.html][It's My Union]]
+- [[./web/never-cross-a-picket-line.html][Never Cross a Picket Line]]
+- [[./web/part-of-the-union.html][Part of the Union]]
+- [[./web/solidarity-forever.html][Solidarity Forever]]
+- [[./web/which-side-are-you-on.html][Which Side are You on]]
+- [[./web/dump-the-bosses-off-your-back.html][Dump the Bosses off Your Back]]
+- [[./web/the-preacher-and-the-slave.html][The Preacher and the Slave]]
+- [[./web/there-is-power-in-a-union.html][There is Power in a Union]]
