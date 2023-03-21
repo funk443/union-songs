@@ -1,0 +1,21 @@
+p.verse
+{
+  font-family: serif;
+  text-align: center;
+  letter-spacing: 0.2px;
+  line-height: 1.2;
+  word-spacing: 2px;
+  margin-left: 0;
+}
+
+.title
+{
+  font-family: serif;
+  font-weight: bold;
+}
+
+#postamble
+{
+  text-align: center;
+  margin-top: 50px;
+}
