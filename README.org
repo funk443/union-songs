@@ -1,0 +1,5 @@
+#+TITLE: ID's Union Song Collection
+#+AUTHOR: CToID
+
+If you want to view Org source files, you might need to view it in
+raw.  Because stupid Github just cannot render the verse block.
