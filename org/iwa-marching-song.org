@@ -1,0 +1,32 @@
+#+TITLE: IWA Marching Song
+#+AUTHOR: Joe Glazer
+#+CREATOR: CToID
+
+#+begin_verse
+Coos Bay to North Bay, Laurel to L'Anse, Camp Blues to Tassus to Trey
+The Woodworkers' Union, our strongest response.  We'll fight till we prevail
+
+Logging camps and plywood mills, fir and southern pine
+Democracy, autonomy, the Union, yours and mine
+Bosses fear the rank and file, we'll join for victory
+The International Woodworkers' will fight for you and me
+
+Wages and pensions, children to feed, sick leave and holiday pay
+Fighting together, we'll get what we need within the IWA
+
+Logging camps and plywood mills, fir and southern pine
+Democracy, autonomy, the Union, yours and mine
+Bosses fear the rank and file, we'll join for victory
+The International Woodworkers' will fight for you and me
+
+When finally old people can come to their goal
+Of jobs that are safe with high pay
+The leader of workers, you ought to be told, will still be IWA
+
+Logging camps and plywood mills, fir and southern pine
+Democracy, autonomy, the Union, yours and mine
+Bosses fear the rank and file, we'll join for victory
+The International Woodworkers' will fight for you and me
+#+end_verse
+
+P.S.: I can't figure out is it "old people can" or "old people can't"
